@@ -51,9 +51,9 @@ class App extends Component{
    {/*  <Container className ="p-0 ml-auto" fluid={true}>    */}
         <Navbar className="border-bottom" bg="transparent" expand="lg">
              
-             <Navbar.Brand href="#">
+             <Navbar.Brand href="">
               <img
-                src="/himu_logo.png"
+                src="./himu_logo.png"
                 width="160"
                 height="60"
                 className="d-inline-block align-top"
