@@ -64,7 +64,7 @@ class App extends Component{
          <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
          <Navbar.Collapse id="navbar-toggle">
             <Nav className="ml-auto">
-               <Link className="nav-link font-weight-bold nav-hover" to="/landingPage">Home</Link>   
+               <Link className="nav-link font-weight-bold nav-hover" to="/">Home</Link>   
               <Link className="nav-link font-weight-bold nav-hover" to="/aboutPage">About Me</Link>
               <Link className="nav-link font-weight-bold nav-hover" to="/portfolio">My Portfolio</Link>
             
