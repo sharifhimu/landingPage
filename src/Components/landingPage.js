@@ -59,9 +59,9 @@ class landingPage extends Component{
      					<hr/>
 
      					
-     					<div className="see-more">
+     				{/*}	<div className="see-more">
 					    <a href="/portfolio"> <h2 >See more</h2> </a>
-					    </div>
+					    </div>    */}
 			       	  
 
 			       	    </div>
