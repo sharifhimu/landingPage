@@ -14,7 +14,7 @@ const Hero =() => {
 						<Col sm={12} md={15} p-0 >
 								
 								
-							<p className="display-5 font-weight-bold text-light mx-3 my-0 ">Hi There </p>
+						{/*	<p className="display-5 font-weight-bold text-light mx-3 my-0 ">Hi There </p>  */}
 							
 						<p className="display-4 font-weight-bold text-light p-0 font-italic my-0">This is Sharif Himu </p> 
 						<p className="display-5 font-weight-bold text-light mx-3 my-0 ">My Interest: </p>

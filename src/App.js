@@ -18,7 +18,6 @@ import portfolio from './Components/portfolio';
 
 
 
-
 class App extends Component{
   
   constructor(props){
@@ -67,7 +66,7 @@ class App extends Component{
                <Link className="nav-link font-weight-bold nav-hover" to="/">Home</Link>   
               <Link className="nav-link font-weight-bold nav-hover" to="/aboutPage">About Me</Link>
               <Link className="nav-link font-weight-bold nav-hover" to="/portfolio">My Portfolio</Link>
-            
+           
             </Nav>
         </Navbar.Collapse> 
         </Navbar>   
@@ -79,13 +78,14 @@ class App extends Component{
            <Route exact path ="/aboutPage" component= {aboutPage} />
            <Route exact path ="/portfolio" component= {portfolio} />
            <Route exact path ="/contactPage" component= {contactPage} /> 
+      
             </Switch>
           
 
+          
+          
 
-           
-
-           <Footer /> 
+         <Footer />   
 
     {/* </Container>  */}
       </Router>
