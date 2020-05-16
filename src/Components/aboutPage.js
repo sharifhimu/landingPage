@@ -7,7 +7,7 @@ const aboutPage = () => {
 			<Container >
 				<Row >
 					<Col className="about_img" xs={11} md={12}>
-						<img className = "thumbnail "src="./thumbnail_image.jpg" alt="thumbnail" />
+						<img className = "thumbnail "src="thumbnail_image.jpg" alt="thumbnail" />
 						
 						</Col>
 

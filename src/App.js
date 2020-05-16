@@ -12,7 +12,7 @@ import Footer from './Components/Footer';
 import landingPage from './Components/landingPage';
 import aboutPage from './Components/aboutPage';
 import contactPage from './Components/contactPage';
-import portfolio from './Components/portfolio';
+// import portfolio from './Components/portfolio';
 import Illustration from './Components/Illustration';
 import Motion from './Components/Motion';
 import Game from './Components/Game';
