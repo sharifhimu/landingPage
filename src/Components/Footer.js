@@ -7,7 +7,7 @@ const Footer = () => {
 		<Container fluid={true} >  
 			<Row  className="border-top  justify-content-center my-5" >
 				<Col  md={3} sm={8} >
-					<p className="display-5 font-weight-bold text-center border-bottom border-dark contact-border-width my-3">Contact me </p>
+					<p className="display-4  text-center border-bottom border-dark contact-border-width my-3">Contact me </p>
 				<div className="social-link" >	
 					<a href="https://www.behance.net/sharifsoroc64d" rel="noopener noreferrer" target="_blank">
 					<i class="fa fa-behance-square" aria-hidden="true" />

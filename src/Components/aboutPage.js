@@ -8,6 +8,10 @@ const aboutPage = () => {
 				<Row >
 					<Col className="about_img" xs={11} md={12}>
 						<img className = "thumbnail "src="./thumbnail_image.jpg" alt="thumbnail" />
+						
+						</Col>
+
+						<Col className="abouts">
 						<p>
 							Hi there, <br />
 							I am a Computer engineer. My Bsc
@@ -28,8 +32,10 @@ const aboutPage = () => {
 
 							<h3>
 								My Education
+								
 							</h3>
-							<p>
+							<hr/>
+							<p> <br/>
 								University of Chittagong. <br/>
 								Subject : Computer science & Engineering. <br/>
 								Session : 2015-16. <br/>
@@ -41,8 +47,8 @@ const aboutPage = () => {
 							</h3>
 
 
-								<h4>junior game developer(internship) </h4>
-							<p>	Agamilabs Limited, Chittagong University 
+							<p>	junior game developer(internship) <br/> 
+								Agamilabs Limited, Chittagong University 
 								Having Experience of working with a team of Game developing
 								sector.
 								Job responsibilities: Game material and UI/UX design, Game development.
