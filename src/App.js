@@ -75,13 +75,19 @@ class App extends Component{
               <Link className="  nav-hover navfont" to="/aboutPage">About Me</Link>
 
         <li class="dropdown">
-          <a href="javascript:void(0)" class="dropbtn">Portfolio</a>
+      {/*    <a href="javascript:void(0)" class="dropbtn">Portfolio</a>   */}
+          <Link  className="dropbtn">Portfolio</Link>
           <div class="dropdown-content">
-            <a href="/Illustration">Illustration</a>
+            <Link to="/Illustration"> Illustration </Link>
+            <Link to="/Motion"> Motion Graphics </Link>
+            <Link to="/Logo"> Logos </Link>
+            <Link to="/Game"> Game Projects </Link>
+            <Link to="/Web"> Web Projects </Link>
+          {/*  <a href="/Illustration">Illustration</a>  
             <a href="/Motion">Motion Graphics</a>
             <a href="/Logo">Logos</a>
             <a href="/Game">Game Projects</a>
-            <a href="/Web">Web Projects</a>
+            <a href="/Web">Web Projects</a>   */}
           </div>
         </li>
 
