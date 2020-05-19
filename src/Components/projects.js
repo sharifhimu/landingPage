@@ -35,7 +35,7 @@ const Projects = (props) => {
 					   	</Card>					*/}
 
 				<a  rel="noopener noreferrer" target="_blank" href={props.referance}>
-				<Card className="projects text-white" style={{width: '400px', height: '240px', padding: '2px',margin: 'center'}}>
+				<Card className="projects text-white" style={{width: '370px', height: '240px', padding: '2px',margin: 'center'}}>
 				
 				  <Card.Img className="cardimg " src={props.cardimg} alt="Card image" />
 				  
@@ -47,8 +47,8 @@ const Projects = (props) => {
 				      additional content. This content is a little bit longer.
 				    </Card.Text>		
 				    <Card.Text>Last updated 3 mins ago</Card.Text>		*/}
-				     <a target="_blank" rel="noopener noreferrer" href={props.button}>
-				  <Button className="btn" style={{margin: '120px'}} >View full Project</Button>
+				     <a target="_blank" style={{margin: '-20px'}} rel="noopener noreferrer" href={props.button}>
+				  <Button className="btn" style={{margin: '130px'}} >View full Project</Button>
 				  </a>
 				  </Card.ImgOverlay>
 				  
