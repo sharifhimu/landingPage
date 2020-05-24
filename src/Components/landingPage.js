@@ -30,6 +30,8 @@ class landingPage extends Component{
      				<Projects referance={Recent[2].referance} cardimg={Recent[2].cardimg} name={Recent[2].name} button={Recent[2].button} /> 
      				<Projects referance={Recent[3].referance} cardimg={Recent[3].cardimg} name={Recent[3].name} button={Recent[3].button} /> 
      				<Projects referance={Recent[4].referance} cardimg={Recent[4].cardimg} name={Recent[4].name} button={Recent[4].button} /> 
+     				<Projects referance={Recent[5].referance} cardimg={Recent[5].cardimg} name={Recent[5].name} button={Recent[5].button} /> 
+     				<Projects referance={Recent[6].referance} cardimg={Recent[6].cardimg} name={Recent[6].name} button={Recent[6].button} /> 
      					
            
 

@@ -1,5 +1,16 @@
 export const Recent = [
-
+			{
+	referance: "https://covid19-chart-viewer.netlify.app/",
+	cardimg: "https://raw.githubusercontent.com/sharifhimu/Covid19_Chart_viewer/master/src/screenshot.PNG" ,
+	name: 'Covid19_Chart_viewer',
+	button: "https://github.com/sharifhimu/Covid19_Chart_viewer"
+					},
+			{
+	referance: "https://drive.google.com/open?id=1XidtPyzhyzBMMr02kDM7tNMlEbzDOngB",
+	cardimg: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ce738897327003.5ec2b4ef5bb84.jpg",
+	name: 'Coachsys motion graphics 2d animation',
+	button: "https://www.behance.net/gallery/97327003/Coachsys-An-educational-software"
+					},
 			{
 	referance: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f071e394816097.5e8823af88d01.png",
 	cardimg: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f071e394816097.5e8823af88d01.png/100px270" ,
@@ -33,7 +44,7 @@ export const Recent = [
 					},					
 
 						]
-
+//7
 
 export const Illustrationproject = [
 
@@ -106,6 +117,12 @@ export const Motionproject = [
 	button: "https://www.behance.net/gallery/92638475/golden-logo-animation"
 					},
 
+			{
+	referance: "https://drive.google.com/open?id=1XidtPyzhyzBMMr02kDM7tNMlEbzDOngB",
+	cardimg: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ce738897327003.5ec2b4ef5bb84.jpg",
+	name: 'Coachsys motion graphics 2d animation',
+	button: "https://www.behance.net/gallery/97327003/Coachsys-An-educational-software"
+					},
 			{
 	referance: "https://drive.google.com/open?id=1x5Ofu385TacZVdGvQKhbDRjMd2WAAmHL",
 	cardimg: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/86e53f94935093.5e8b5ae19f361.jpg",
@@ -217,6 +234,12 @@ export const Gameproject = [
 
 export const Webproject = [
 
+			{
+	referance: "https://covid19-chart-viewer.netlify.app/",
+	cardimg: "https://raw.githubusercontent.com/sharifhimu/Covid19_Chart_viewer/master/src/screenshot.PNG" ,
+	name: 'Covid19_Chart_viewer',
+	button: "https://github.com/sharifhimu/Covid19_Chart_viewer"
+					},
 			{
 	referance: "https://sharifhimu.github.io/Robofriend/",
 	cardimg: "https://github.com/sharifhimu/Robofriend/blob/master/src/site_pic.PNG?raw=true" ,

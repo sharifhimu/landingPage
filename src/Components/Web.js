@@ -20,6 +20,7 @@ class Web extends Component{
      				  
 
      				<Projects referance={Webproject[0].referance} cardimg={Webproject[0].cardimg} name={Webproject[0].name} button={Webproject[0].button} />  
+           			<Projects referance={Webproject[1].referance} cardimg={Webproject[1].cardimg} name={Webproject[1].name} button={Webproject[1].button} />  
            			
            </div>
            </div>
