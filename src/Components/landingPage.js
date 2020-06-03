@@ -24,8 +24,10 @@ class landingPage extends Component{
           
      				<div className="recent-grid">
      				  
+     				{Recent.map((project,i)=> <Projects referance={Recent[i].referance} cardimg={Recent[i].cardimg} name={Recent[i].name} button={Recent[i].button} />  
+     				 )}
 
-     				<Projects referance={Recent[0].referance} cardimg={Recent[0].cardimg} name={Recent[0].name} button={Recent[0].button} />  
+{/*     				<Projects referance={Recent[0].referance} cardimg={Recent[0].cardimg} name={Recent[0].name} button={Recent[0].button} />  
      				<Projects referance={Recent[1].referance} cardimg={Recent[1].cardimg} name={Recent[1].name} button={Recent[1].button} /> 
      				<Projects referance={Recent[2].referance} cardimg={Recent[2].cardimg} name={Recent[2].name} button={Recent[2].button} /> 
      				<Projects referance={Recent[3].referance} cardimg={Recent[3].cardimg} name={Recent[3].name} button={Recent[3].button} /> 
@@ -33,7 +35,7 @@ class landingPage extends Component{
      				<Projects referance={Recent[5].referance} cardimg={Recent[5].cardimg} name={Recent[5].name} button={Recent[5].button} /> 
      				<Projects referance={Recent[6].referance} cardimg={Recent[6].cardimg} name={Recent[6].name} button={Recent[6].button} /> 
      					
-           
+   */}        
 
 					   		<hr/>
 

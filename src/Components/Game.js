@@ -19,10 +19,15 @@ class Game extends Component{
      				<div className="recent-grid">
      				  
 
-     				<Projects referance={Gameproject[0].referance} cardimg={Gameproject[0].cardimg} name={Gameproject[0].name} button={Gameproject[0].button} />  
+     	{/*			<Projects referance={Gameproject[0].referance} cardimg={Gameproject[0].cardimg} name={Gameproject[0].name} button={Gameproject[0].button} />  
            			<Projects referance={Gameproject[1].referance} cardimg={Gameproject[1].cardimg} name={Gameproject[1].name} button={Gameproject[1].button} />  
      				 
-     					
+     		*/}
+
+
+     				{Gameproject.map((project,i)=> <Projects referance={Gameproject[i].referance} cardimg={Gameproject[i].cardimg} name={Gameproject[i].name} button={Gameproject[i].button} />  
+     				 )}
+
            </div>
            </div>
 
