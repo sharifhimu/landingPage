@@ -48,7 +48,7 @@ const Projects = (props) => {
 				    </Card.Text>		
 				    <Card.Text>Last updated 3 mins ago</Card.Text>		*/}
 				     <a target="_blank" style={{margin: '-20px'}} rel="noopener noreferrer" href={props.button}>
-				  <Button className="btn" style={{margin: '130px'}} >View full Project</Button>
+				  <Button className="btn" style={{margin: '120px'}} >View full Project</Button>
 				  </a>
 				  </Card.ImgOverlay>
 				  
