@@ -1,5 +1,10 @@
 import carpash from './image/carpash.png';
 
+// web
+
+import alifiaweb from './image/alifiaweb.png';
+import nadel from './image/nadel.png';
+
 export const Recent = [
 			{
 	referance: "https://drive.google.com/file/d/1Ao23dqifH6I33QXSrpKrmDo0NBhOI0Aw/view?usp=sharing",
@@ -285,6 +290,18 @@ export const Gameproject = [
 
 export const Webproject = [
 
+	{
+		referance: "https://nadel.netlify.app/",
+		cardimg: nadel,
+		name: 'Nadel',
+		button: "https://github.com/sharifhimu/nadel"
+						},
+	{
+		referance: "https://alifiaproperties.netlify.app/",
+		cardimg: alifiaweb,
+		name: 'Alifia Properties',
+		button: "https://github.com/sharifhimu/alifiaweb"
+						},
 			{
 	referance: "https://sharifhimu.github.io/colorchecker/",
 	cardimg: "https://raw.githubusercontent.com/sharifhimu/colorchecker/gh-pages/Screenshot.PNG" ,

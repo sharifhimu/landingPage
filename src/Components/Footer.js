@@ -25,6 +25,10 @@ const Footer = () => {
 					<i class="fa fa-skype" aria-hidden="true" />
 					</a>
 
+					<a href="https://join.skype.com/invite/x52fLYWXq9bv" rel="noopener noreferrer" target="_blank">
+					<i class="fa fa-fiverr" aria-hidden="true" />
+					</a>
+
 				</div>		
 
 				</Col>
