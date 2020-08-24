@@ -6,7 +6,21 @@ import alifiaweb from './image/alifiaweb.png';
 import nadel from './image/nadel.png';
 
 export const Recent = [
-			{
+
+	{
+		referance: "https://nadel.netlify.app/",
+		cardimg: nadel,
+		name: 'Nadel',
+		button: "https://github.com/sharifhimu/nadel"
+						},
+	{
+		referance: "https://alifiaproperties.netlify.app/",
+		cardimg: alifiaweb,
+		name: 'Alifia Properties',
+		button: "https://github.com/sharifhimu/alifiaweb"
+						},
+
+	{
 	referance: "https://drive.google.com/file/d/1Ao23dqifH6I33QXSrpKrmDo0NBhOI0Aw/view?usp=sharing",
 	cardimg: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5d8d5398290733.5ed8d61c96e5b.png",
 	name: 'What is Illustrator?',
