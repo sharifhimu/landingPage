@@ -1,5 +1,6 @@
 import React from 'react';
 import {Container,Row, Col} from 'react-bootstrap';
+import {SiFiverr} from 'react-icons/si';
 
 const Footer = () => {
 	return(
@@ -25,8 +26,8 @@ const Footer = () => {
 					<i class="fa fa-skype" aria-hidden="true" />
 					</a>
 
-					<a href="https://join.skype.com/invite/x52fLYWXq9bv" rel="noopener noreferrer" target="_blank">
-					<i class="fa fa-fiverr" aria-hidden="true" />
+					<a href="https://www.fiverr.com/sharif_himu?up_rollout=true" rel="noopener noreferrer" target="_blank">
+					<SiFiverr className="fiverr" />
 					</a>
 
 				</div>		

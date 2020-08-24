@@ -370,6 +370,16 @@ src: local('Just Another Hand Regular'), url('JustAnotherHand-Regular.woff') for
             transform: scale(1.2);
            }
 
+           .fiverr{
+             font-size: 30px;
+             color: black;
+             transform: translateZ(0);
+             transition: transform 0.25s ease-out;   
+           }
+           .fiverr:hover{
+            transform: scale(1.2);
+           }
+
 .contact-border-width{
             font-family: 'Just Another Hand Regular';
             color: black;
